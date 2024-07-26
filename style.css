@@ -1,50 +1,104 @@
-body{
+body {
     margin: 0%;
     background-color: black;
 }
-header{
+
+header {
     background-color: black;
     height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 250px
-    ;
+    gap: 250px;
 
-    
+
 
 }
-.l1{
+
+.l1 {
     color: rgb(255, 255, 255);
-  list-style: none;
-  display: flex;
-  gap: 50px;
-  
+    list-style: none;
+    display: flex;
+    gap: 50px;
+
 
 }
-.l1 > a{
-     color: #fff; 
+
+.l1>a {
+    color: #fff;
     text-decoration: none;
 }
-.img1{
+
+.img1 {
     height: 80px;
     width: 150px;
 }
-.b{
+
+.b {
     border-radius: 20px;
     background-color: red;
-    color: #fff; 
+    color: #fff;
     padding: 6px;
 }
-:root{
+
+:root {
     --fontcolor: white;
 }
-div.d1{
+
+div.d1 {
     color: var(--fontcolor);
     text-align: center;
 }
-    
+
+.p1 {
+    color: var(--fontcolor);
+
+}
+
+.d2 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+
+}
+
+.s1 {
+    background-color: #fff;
+    border-radius: 5px;
 
 
+}
+
+.s2 {
+    background-color: #fff;
+    border-radius: 5px;
+}
 
 
+.s3 {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.d3 {
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    background-color: black;
+
+}
+
+.b1 {
+    border-radius: 25px;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 20px;
+    border: 1px solid white;
+    margin: 20px;
+
+
+}
+.d4{
+    background-color: #0F0F0F;
+    color: #fff;
+}
