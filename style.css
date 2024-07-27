@@ -115,4 +115,36 @@ div.d1 {
 }
 .pd1 {
   display: flex;
+  justify-content: space-around;
+}
+.pd2 {
+  display: flex;
+  justify-content: space-around;
+}
+.pd3 {
+  display: flex;
+  justify-content: space-around;
+}
+.d5{
+  background-color: black;
+}
+.cd51{
+  color: #fff;
+}
+.pd51{
+  display: flex; 
+  justify-content: space-around;
+}
+.pd52{
+  display: flex; 
+  justify-content: space-around;
+}
+.pd53{
+  display: flex; 
+  justify-content: space-around;
+}
+.pd54{
+  display: flex; 
+ gap: 50px;
+justify-content: center;
 }
