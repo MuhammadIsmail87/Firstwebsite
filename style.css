@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Futura;
+  src: url(fonts/FuturaPTBold.ttf);
+}
+
 body {
   margin: 0%;
   background-color: black;
@@ -100,6 +105,7 @@ div.d1 {
   color: #acb4b4;
 }
 .S {
+  
   color: #fff;
 }
 .R {
@@ -147,4 +153,82 @@ div.d1 {
   display: flex; 
  gap: 50px;
 justify-content: center;
+}
+.d6{
+  background-color: #0f0f0f;
+
+}
+.pd61{
+  color: #fff;
+
+}
+.pd62{
+  display: flex;
+
+  width: 100%;
+}
+.cd61{
+  width: 50%;
+}
+.cd62{
+  width: 50%;
+  align-content:center ;
+  margin-left: -110px;
+}
+.b3{
+  border-radius: 25px;
+  background-color:#28A745;
+  color: #fff;
+  padding: 20px;
+  border: 1px solid white;
+  margin: 20px;
+  width: 174px;
+  height: 50px;
+}
+.d7{
+  background-color: black;
+
+}
+.cd71{
+background-color: #fff;
+width: 350px;
+height: 230px;
+margin: 0px 0px 32px;
+padding: 35px 24px ;
+
+}
+.S2{
+  color:white ;
+
+}
+.f2{
+  font-family:Futura;
+  font-size: 24px;
+}
+.f1{
+  font-size: 20px;
+}
+.pd72{
+  display: flex;
+  justify-content: space-evenly;
+ 
+}
+.cd71{
+  border-radius: 8px;
+}
+
+.pd73{
+  display: flex;
+  justify-content: space-evenly;
+ 
+}
+.image {
+width: 311px;
+height: 311px;  
+}
+.pd74{
+  display: flex;
+}
+.heading{
+  color: #fff;
 }
