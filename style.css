@@ -39,6 +39,7 @@ header {
   background-color: red;
   color: #fff;
   padding: 6px;
+  border: 0px;
 }
 
 :root {
@@ -184,6 +185,7 @@ div.d1 {
 }
 .d7 {
   background-color: black;
+  height: 1600px;
 }
 .cd71 {
   background-color: #fff;
@@ -228,10 +230,14 @@ div.d1 {
 }
 .d8 {
   background-color: #0f0f0f;
+  display: flex;
+ height: 1000px;
+ justify-content: center;
+ gap: 50px;
 }
 .pd81 {
-  width: 252.75px;
-  height: 403px;
+  width: 285.75px;
+  height: 346px;
 }
 
 .img2 {
@@ -242,12 +248,12 @@ div.d1 {
 .para1 {
   color: #acacac;
   padding: 0px 0px 24px;
-
+font-size:25px ;
   margin: 0%;
 }
 .l2 {
   color: #acacac;
-
+font-size: 25px;
   list-style: none;
 }
 .a {
@@ -262,4 +268,70 @@ div.d1 {
 .h4{
   color: #fff;
 }
+.pd82{
+  width: 252.75px;
+  height: 403px;
+}
+.li1{
+  width: 210.63px;
+  height: 36px;
+  padding: 0px 0px 16px ;
+  font-size: 25px;
+}
+.l4{
+  list-style: none;
+}
+.lic{
+  color: #acacac; 
+ text-decoration: none;
+ font-size: 25px;
+}
+.l4>li{
+  color: #fff;
+  list-style: none;
+  
+}
+.pd84{
 
+}
+.b41 {
+  background-color: #ED1C24;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  border: 0px;
+ }
+ .b42{
+  background-color: #ED1C24;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  border: 0px;
+
+ }
+ .b43{
+  background-color: #ED1C24;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  border: 0px;
+ }
+.lb4{
+  font-size: 25px;
+ 
+}
+.l5{
+  list-style: none;
+}
+.h6{
+  color: white;
+}
+.img3{
+  background-color: #0f0f0f;
+}
+.appstoreandplaystore{
+  width: 141px;
+  height: 44px;
+  margin: 15px;
+  margin-left: 0px;
+}
