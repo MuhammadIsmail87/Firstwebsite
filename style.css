@@ -105,7 +105,6 @@ div.d1 {
   color: #acb4b4;
 }
 .S {
-  
   color: #fff;
 }
 .R {
@@ -131,53 +130,51 @@ div.d1 {
   display: flex;
   justify-content: space-around;
 }
-.d5{
+.d5 {
   background-color: black;
 }
-.cd51{
+.cd51 {
   color: #fff;
 }
-.pd51{
-  display: flex; 
+.pd51 {
+  display: flex;
   justify-content: space-around;
 }
-.pd52{
-  display: flex; 
+.pd52 {
+  display: flex;
   justify-content: space-around;
 }
-.pd53{
-  display: flex; 
+.pd53 {
+  display: flex;
   justify-content: space-around;
 }
-.pd54{
-  display: flex; 
- gap: 50px;
-justify-content: center;
+.pd54 {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
 }
-.d6{
+.d6 {
   background-color: #0f0f0f;
-
 }
-.pd61{
+.pd61 {
   color: #fff;
-
 }
-.pd62{
+.pd62 {
   display: flex;
 
   width: 100%;
 }
-.cd61{
+.cd61 {
   width: 50%;
 }
-.cd62{
+.cd62 {
   width: 50%;
-  align-content:center ;
+  align-content: center;
   margin-left: -110px;
 }
-.b3{
+.b3 {
   border-radius: 25px;
-  background-color:#28A745;
+  background-color: #28a745;
   color: #fff;
   padding: 20px;
   border: 1px solid white;
@@ -185,50 +182,84 @@ justify-content: center;
   width: 174px;
   height: 50px;
 }
-.d7{
+.d7 {
   background-color: black;
-
 }
-.cd71{
-background-color: #fff;
-width: 350px;
-height: 230px;
-margin: 0px 0px 32px;
-padding: 35px 24px ;
-
+.cd71 {
+  background-color: #fff;
+  width: 350px;
+  height: 230px;
+  margin: 0px 0px 32px;
+  padding: 35px 24px;
 }
-.S2{
-  color:white ;
-
+.S2 {
+  color: white;
 }
-.f2{
-  font-family:Futura;
+.f2 {
+  font-family: Futura;
   font-size: 24px;
 }
-.f1{
+.f1 {
   font-size: 20px;
 }
-.pd72{
+.pd72 {
   display: flex;
   justify-content: space-evenly;
- 
 }
-.cd71{
+.cd71 {
   border-radius: 8px;
 }
 
-.pd73{
+.pd73 {
   display: flex;
   justify-content: space-evenly;
- 
 }
 .image {
-width: 311px;
-height: 311px;  
+  width: 311px;
+  height: 311px;
 }
-.pd74{
+.pd74 {
   display: flex;
+  width: 100%;
+  justify-content: space-around;
 }
-.heading{
+.heading {
   color: #fff;
 }
+.d8 {
+  background-color: #0f0f0f;
+}
+.pd81 {
+  width: 252.75px;
+  height: 403px;
+}
+
+.img2 {
+  height: 94px;
+  width: 170px;
+  padding: 0px 0px 24px;
+}
+.para1 {
+  color: #acacac;
+  padding: 0px 0px 24px;
+
+  margin: 0%;
+}
+.l2 {
+  color: #acacac;
+
+  list-style: none;
+}
+.a {
+  text-decoration: none;
+  color: #acacac;
+}
+.l3>a{
+  color:  #acacac;
+  text-decoration: none;
+  list-style: none;
+}
+.h4{
+  color: #fff;
+}
+
